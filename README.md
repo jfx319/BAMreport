@@ -24,6 +24,10 @@ QC graphs and plots in it. The output file includes the following:
 These tools should work on any standard 64 bit Linux environment with
 * GCC
 * Python (version >= 2.7.6)
+* R & Rscript
+ * MASS
+ * ggplot2
+ * RColorBrewer
 
 ## TEST DATA
 The test dataset includes a BAM file and a fasta reference file. Run the tool 
