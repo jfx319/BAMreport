@@ -1,4 +1,4 @@
-#!/usr/bin/env Rscript
+#!/share/apps/R/3.2.1/bin/Rscript
 
 library(MASS)
 
