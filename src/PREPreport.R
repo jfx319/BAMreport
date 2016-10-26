@@ -1,8 +1,8 @@
-#!/usr/bin/env Rscript
+#!/share/apps/R/3.2.1/bin/Rscript
 
 library(MASS)
-library(ggplot2)
-library(RColorBrewer)
+library(ggplot2) #needs separate install
+library(RColorBrewer) #needs separate install
 
 ## Default when nothing is passed
 args = commandArgs(trailingOnly = TRUE)
