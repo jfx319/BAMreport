@@ -1,4 +1,4 @@
-#!/share/apps/R/3.2.1/bin/Rscript
+#!/home/jcx9dy/bin/R-3.2.5/bin/Rscript
 
 library(MASS)
 library(ggplot2) #needs separate install
